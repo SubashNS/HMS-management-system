@@ -1,0 +1,438 @@
+
+
+
+.record-success{	
+	background-image : url("patient.jpg");
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+    	background-repeat: no-repeat;
+	
+}
+
+.main{	
+	background-image : url("img1.jpg");
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+    	background-repeat: no-repeat;
+	
+}
+.motto{
+	font-family: Copperplate Gothic;
+	color:#006CE0;
+	position: absolute;
+	bottom:115px;
+	left:30px;
+	font-size:50px; 
+
+
+}
+h2{
+	bottom: 100px;
+	position: absolute;
+	left: 100px;
+	font-family:Lucida Calligraphy;
+}
+
+.button{
+	height: 50px;
+	width: 150px;
+	position: relative;
+	border: 2px solid white;
+	border-radius:50px ;
+	top: 20px;
+	left:30px;	
+	border-size:50%S;
+	background-color:#006CE0;
+	text-align: center;
+	padding-top: 36px;
+	}
+
+.header-class{
+    padding: 1em;
+    color: white;
+    background-color:#006CE0;
+    clear: left;
+    text-align: center;
+	font-family:Engravers MT;
+}
+
+.header-classview{
+    padding: 1em;
+    color: white;
+    background-color:#0099CC ;
+    clear: left;
+    text-align: center;
+	font-family:Calisto MT;
+}
+
+.bg-login{
+	background-color:#f5f5f5;
+}
+
+.login-block{
+	background-color:#006CE0;
+	margin: auto;
+	height: 400px;
+	width: 500px;
+	position: relative;
+	top:60px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+
+.record-block{
+	background-color:#DC143C;
+	margin: auto;
+	height: 500px;
+	width: 600px;
+	position: relative;
+	top:40px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+
+input[type=text], select {
+    width: 90%;
+    padding: 20px 20px;
+    margin: 8px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 90%;
+    padding: 20px 20px;
+    margin: 8px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=radio],select{
+	margin: 8px 20px;
+
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.menu-login{
+	background-color:#87cefa;
+}
+.insert-button{
+	background-color:#F2F0EF;
+	height:200px;
+	width: 200px;
+	position: relative;
+	top: 150px;
+	left: 100px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+
+.view-button{
+	background-color:#F2F0EF;
+	height:200px;
+	width: 200px;
+	position: relative;
+	left: 550px;
+	top:-50px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;
+	
+}
+.view-button : hover{
+	background-color:#006CE0;
+	height:200px;
+	width: 200px;
+	position: relative;
+	left: 550px;
+	top:-50px;
+	border-radius:100%;
+	color:#F2F0EF;
+	border: 2px solid #F2F0EF ;
+	
+}
+
+.update-button{
+	background-color:#F2F0EF;
+	height:200px;
+	width: 200px;
+	position: relative;
+	left: 1000px;
+	top:-250px;
+	border-radius:100%;
+	border: 2px solid #006CE0 ;
+	text-align: center;
+
+}
+
+.center-textbutton{
+	text-align:center;
+	padding-top:40px;
+	font-family:Hanzel;
+	color:#006CE0;
+
+}
+.insdoc-block{
+	background-color:#B0E0E6;
+	margin: left;
+	height: 600px;
+	width: 500px;
+	position: absolute;
+	top:130px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+.image-doc{
+	position: absolute;
+	top: 130px;
+	left: 570px;
+	margin: auto;
+	}
+
+.insnurse-block{
+	background-color:#B0E0E6;
+	margin: left;
+	height: 600px;
+	width: 500px;
+	position: absolute;
+	top:130px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+
+.image-nurse{
+	position: absolute;
+	top: 130px;
+	left: 570px;
+	margin: auto;
+	}
+
+.inspat-block{
+	background-color:#00FA9A;
+	margin: left;
+	height: 600px;
+	width: 500px;
+	position: absolute;
+	top:130px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+
+.image-pat{
+	position: absolute;
+	top: 130px;
+	left: 570px;
+	margin: auto;
+	}
+
+.update-doc{
+	background-color:#B0E0E6;
+	margin: auto;
+	height: 150px;
+	width: 300px;
+	position: absolute;
+	top:250px;
+	right:100px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+}
+
+
+.update-doc1{
+	background-color:#F08080;
+	margin: auto;
+	height: 150px;
+	width: 300px;
+	position: absolute;
+	top:250px;
+	right:100px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+}
+
+.image-updatedoc{
+	position: absolute;
+	top: 180px;
+	left: 75px;
+	margin: auto;
+	}
+
+.update-nurse{
+	background-color:#B0E0E6;
+	margin: auto;
+	height: 150px;
+	width: 300px;
+	position: absolute;
+	top:250px;
+	right:100px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;}
+
+.update-patient{
+	background-color:#00FA9A;
+	margin: auto;
+	height: 150px;
+	width: 300px;
+	position: absolute;
+	top:250px;
+	right:100px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;}
+
+.main-view{
+	background-color:#CCFFCC;
+}
+
+.view-text{
+	color:#003399;
+	position:absolute;
+	right: 700px;
+	top: 200px;
+}
+.image-view{
+	position:absolute;
+	top: 240px;
+	left: 120px;
+	height:250px;
+	width:250px;
+
+}
+
+.inspatadm-block{
+	background-color:	#F08080;
+	margin: left;
+	height: 600px;
+	width: 500px;
+	position: absolute;
+	top:130px;
+	padding: 8px 20px;
+	border-radius: 30px;
+	padding-top: 2em;
+	}
+
+.insert-b{
+	background-color:#F2F0EF;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 100px;
+	left: 200px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+.view-b{
+	background-color:#F2F0EF;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 300px;
+	left: 200px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+.update-b{
+	background-color:#F2F0EF;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 500px;
+	left: 200px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+
+.center-textbutton1{
+	text-align:center;
+	padding-top:40px;
+	font-family:Hanzel;
+	color: #F2F0EF;
+
+}
+.app-b{
+	background-color:#006CE0;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 100px;
+	left: 600px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+
+
+.room-b{
+	background-color:#006CE0;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 300px;
+	left: 600px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+.med-b{
+	background-color:#32CD32;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 500px;
+	left: 600px;
+	border-radius:100%;
+	text-color:#006CE0;
+	border: 2px solid #006CE0 ;	
+}
+.center-textbutton2{
+	text-align:center;
+	padding-top:40px;
+	font-family:Hanzel;
+	color:#32CD32;
+
+}
+
+.bill-b{
+	background-color:#000000;
+	height:150px;
+	width: 150px;
+	position: absolute;
+	top: 300px;
+	left: 1000px;
+	border-radius:100%;
+	text-color:#32CD32;
+	border: 2px solid #32CD32 ;	
+}
